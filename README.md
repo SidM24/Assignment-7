@@ -21,3 +21,5 @@ To run the script, make sure you have Python installed. Then, simply execute the
 
 ![alt text](Resource_Usage.png)
 
+## ***Please Note that the above program was executed on a 12 - core processor with only 6 cores to be set as active, the result may vary for different systems depending on the number of cores that the system has***
+
