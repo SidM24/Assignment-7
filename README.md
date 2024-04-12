@@ -19,5 +19,5 @@ To run the script, make sure you have Python installed. Then, simply execute the
 
 ## Resource Usage
 
-![alt text](image.png)
+![alt text](Resource_Usage.png)
 
